@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Sanket Shah
-# tagline:          ''
-description:      'Research Engineer, SMU'
+tagline:          'Research Engineer, SMU'
+# description:      ''
 url:              https://sanketkshah.github.io
 baseurl:          /
 
