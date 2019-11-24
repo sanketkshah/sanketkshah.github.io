@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Research Engineer">
+  <meta name="description" content="We add future information to ride-pooling assignments by using a novel extension to Approximate Dynamic Programming.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sanketkshah.github.io/404.html">
+  <link rel="alternate" hreflang="en-us" href="https://sanketkshah.github.io/publication/ride-pooling/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://sanketkshah.github.io/404.html">
+  <link rel="canonical" href="https://sanketkshah.github.io/publication/ride-pooling/">
 
   
   
@@ -114,18 +114,63 @@
   <meta property="twitter:creator" content="@_sunk8">
   
   <meta property="og:site_name" content="Sanket Shah">
-  <meta property="og:url" content="https://sanketkshah.github.io/404.html">
-  <meta property="og:title" content="404 Page not found | Sanket Shah">
-  <meta property="og:description" content="Research Engineer"><meta property="og:image" content="https://sanketkshah.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://sanketkshah.github.io/publication/ride-pooling/">
+  <meta property="og:title" content="Neural Approximate Dynamic Programming for On-Demand Ride-Pooling | Sanket Shah">
+  <meta property="og:description" content="We add future information to ride-pooling assignments by using a novel extension to Approximate Dynamic Programming."><meta property="og:image" content="https://sanketkshah.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://sanketkshah.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2019-11-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-02-07T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sanketkshah.github.io/publication/ride-pooling/"
+  },
+  "headline": "Neural Approximate Dynamic Programming for On-Demand Ride-Pooling",
+  
+  "datePublished": "2019-11-01T00:00:00Z",
+  "dateModified": "2020-02-07T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sanket Shah"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sanket Shah",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sanketkshah.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We add future information to ride-pooling assignments by using a novel extension to Approximate Dynamic Programming."
+}
+</script>
+
+  
 
   
 
@@ -133,10 +178,13 @@
   
 
 
+  
 
 
 
-  <title>404 Page not found | Sanket Shah</title>
+
+
+  <title>Neural Approximate Dynamic Programming for On-Demand Ride-Pooling | Sanket Shah</title>
 
 </head>
 
@@ -308,30 +356,271 @@
 </nav>
 
 
-  <div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
+  <div class="pub">
 
   
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+
+
+
+
+
+
+
+  
 
   
   
   
-  <h2>Latest</h2>
-  <ul>
+<div class="article-container pt-3">
+  <h1>Neural Approximate Dynamic Programming for On-Demand Ride-Pooling</h1>
+
+  
+
+  
     
-      <li><a href="/publication/ride-pooling/">Neural Approximate Dynamic Programming for On-Demand Ride-Pooling</a></li>
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
     
+
+
+
+  
+  <span><a href="/authors/sanket-shah/">Sanket Shah</a></span>, <span><a href="/authors/meghna-lowalekar/">Meghna Lowalekar</a></span>, <span><a href="/authors/pradeep-varakantham/">Pradeep Varakantham</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1911.08799" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract"><p>On-demand ride-pooling (e.g., UberPool) has recently become popular because of its ability to lower costs for passengers while simultaneously increasing revenue for drivers and aggregation companies. Unlike in Taxi on Demand (ToD) services &ndash; where a vehicle is only assigned one passenger at a time &ndash; in on-demand ride-pooling, each (possibly partially filled) vehicle can be assigned a group of passenger requests with multiple different origin and destination pairs. To ensure near real-time response, existing solutions to the real-time ride-pooling problem are myopic in that they optimise the objective (e.g., maximise the number of passengers served) for the current time step without considering its effect on future assignments. This is because even a myopic assignment in ride-pooling involves considering what combinations of passenger requests that can be assigned to vehicles, which adds a layer of combinatorial complexity to the ToD problem.</p>
+
+<p>A popular approach that addresses the limitations of myopic assignments in ToD problems is Approximate Dynamic Programming (ADP). Existing ADP methods for ToD can only handle Linear Program (LP) based assignments, however, while the assignment problem in ride-pooling requires an Integer Linear Program (ILP) with bad LP relaxations. To this end, our key technical contribution is in providing a general ADP method that can learn from ILP-based assignments. Additionally, we handle the extra combinatorial complexity from combinations of passenger requests by using a Neural Network based approximate value function and show a connection to Deep Reinforcement Learning that allows us to learn this value-function with increased stability and sample-efficiency. We show that our approach outperforms past approaches on a real-world dataset by up to 16%, a significant improvement in city-scale transportation problems.</p>
+</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>Thirty-Fourth AAAI Conference on Artificial Intelligence</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/ride-pooling/">Ride-Pooling</a>
+  
+  <a class="badge badge-light" href="/tags/transportation/">Transportation</a>
+  
+  <a class="badge badge-light" href="/tags/approximate-dynamic-programming/">Approximate Dynamic Programming</a>
+  
+  <a class="badge badge-light" href="/tags/deep-reinforcement-learning/">Deep Reinforcement Learning</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/sanket-shah/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
       <li><a href="/publication/tsg/">Solving Online Threat Screening Games using Constrained Action Space Reinforcement Learning</a></li>
-    
-  </ul>
+      
+    </ul>
+  </div>
   
 
+
+
+  </div>
 </div>
 
       

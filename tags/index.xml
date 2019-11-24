@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Sanket Shah</title>
+    <link>https://sanketkshah.github.io/tags/</link>
+      <atom:link href="https://sanketkshah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sanketkshah.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://sanketkshah.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Dynamic Programming</title>
+      <link>https://sanketkshah.github.io/tags/approximate-dynamic-programming/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/tags/approximate-dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning</title>
+      <link>https://sanketkshah.github.io/tags/deep-reinforcement-learning/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/tags/deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Theory</title>
+      <link>https://sanketkshah.github.io/tags/game-theory/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/tags/game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ride-Pooling</title>
+      <link>https://sanketkshah.github.io/tags/ride-pooling/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/tags/ride-pooling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://sanketkshah.github.io/tags/security/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation</title>
+      <link>https://sanketkshah.github.io/tags/transportation/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/tags/transportation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
