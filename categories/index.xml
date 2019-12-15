@@ -5,12 +5,20 @@
     <link>https://sanketkshah.github.io/categories/</link>
       <atom:link href="https://sanketkshah.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://sanketkshah.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://sanketkshah.github.io/categories/blog/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
