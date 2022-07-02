@@ -1,134 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://sanketkshah.github.io/publication_types/1/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/andrew-perrault/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/approximate-dynamic-programming/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/arunesh-sinha/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/deep-reinforcement-learning/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/game-theory/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/meghna-lowalekar/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/milind-tambe/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/publication/ride-pooling/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/pradeep-varakantham/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/publication_types/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/publication/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/ride-pooling/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/sanket-shah/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/security/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/publication/tsg/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/tags/transportation/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/authors/sanketkshah/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/categories/blog/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/categories/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/post/ride-pooling/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/post/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sanketkshah.github.io/talk/</loc>
   </url>
-  
 </urlset>
