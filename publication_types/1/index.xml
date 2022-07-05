@@ -5,12 +5,20 @@
     <link>https://sanketkshah.github.io/publication_types/1/</link>
       <atom:link href="https://sanketkshah.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://sanketkshah.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Decision-Focused Learning in Restless Multi-Armed Bandits with Application to Maternal and Child Care Domain</title>
+      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Joint Pricing and Matching for City-Scale Ride-Pooling</title>
@@ -41,14 +49,6 @@
       <link>https://sanketkshah.github.io/publication/multi-action-rmab/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/multi-action-rmab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning</title>
-      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
       <description></description>
     </item>
     

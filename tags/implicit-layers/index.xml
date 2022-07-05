@@ -5,7 +5,7 @@
     <link>https://sanketkshah.github.io/tags/implicit-layers/</link>
       <atom:link href="https://sanketkshah.github.io/tags/implicit-layers/index.xml" rel="self" type="application/rss+xml" />
     <description>Implicit Layers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
       <title>Implicit Layers</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning</title>
-      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
+      <link>https://sanketkshah.github.io/publication/dfl-mdp/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-mdp/</guid>
       <description></description>
     </item>
     

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Decision-Focused Learning in Restless Multi-Armed Bandits with Application to Maternal and Child Care Domain</title>
+      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</title>
       <link>https://sanketkshah.github.io/publication/dfl-lodl/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
@@ -25,14 +33,6 @@
       <link>https://sanketkshah.github.io/publication/dfl-mdp/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/dfl-mdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning</title>
-      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
       <description></description>
     </item>
     
