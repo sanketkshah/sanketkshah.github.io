@@ -5,7 +5,7 @@
     <link>https://sanketkshah.github.io/publication_types/3/</link>
       <atom:link href="https://sanketkshah.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
       <title>3</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</title>
       <link>https://sanketkshah.github.io/publication/dfl/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/dfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</title>
+      <link>https://sanketkshah.github.io/publication/dfl-mdp/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-mdp/</guid>
       <description></description>
     </item>
     

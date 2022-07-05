@@ -2,67 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanketkshah.github.io/publication_types/1/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sanketkshah.github.io/publication_types/3/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/andrew-perrault/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/bryan-wilder/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/decision-focused-learning/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication/dfl/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/publication/pricing-matching/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/kai-wang/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/tags/mechanism-design/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/authors/meghna-lowalekar/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/milind-tambe/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/authors/pradeep-varakantham/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication_types/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/tags/ride-pooling/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/sanket-shah/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication_types/1/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/pricing-matching/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/mechanism-design/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/meghna-lowalekar/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/pradeep-varakantham/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/ride-pooling/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/transportation/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/dfl-mdp/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication_types/0/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/alvitta-ottley/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/ashwin-kumar/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/fairness/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/fairvizard/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/visualization/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/william-yeoh/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/fairness-naveen/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/john-dickerson/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/naveen-raman/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/arpita-biswas/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/jackson-killian/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/multi-action-rmab/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/restless-multi-armed-bandits/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/finale-doshi-velez/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/haipeng-chen/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/implicit-layers/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/dfl-armann/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/approximate-dynamic-programming/</loc>

@@ -5,7 +5,7 @@
     <link>https://sanketkshah.github.io/publication/</link>
       <atom:link href="https://sanketkshah.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</title>
       <link>https://sanketkshah.github.io/publication/dfl/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/dfl/</guid>
       <description></description>
     </item>
@@ -23,8 +23,48 @@
     <item>
       <title>Joint Pricing and Matching for City-Scale Ride-Pooling</title>
       <link>https://sanketkshah.github.io/publication/pricing-matching/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/pricing-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</title>
+      <link>https://sanketkshah.github.io/publication/dfl-mdp/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-mdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FairVizARD: A Visualization System for Assessing Fairness of Ride-Sharing Matching Algorithms</title>
+      <link>https://sanketkshah.github.io/publication/fairvizard/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/fairvizard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling</title>
+      <link>https://sanketkshah.github.io/publication/fairness-naveen/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/fairness-naveen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-Learning Lagrange Policies for Multi-Action Restless Bandits</title>
+      <link>https://sanketkshah.github.io/publication/multi-action-rmab/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/multi-action-rmab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning</title>
+      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
       <description></description>
     </item>
     

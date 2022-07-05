@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackson Killian | Sanket Shah</title>
+    <link>https://sanketkshah.github.io/authors/jackson-killian/</link>
+      <atom:link href="https://sanketkshah.github.io/authors/jackson-killian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jackson Killian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sanketkshah.github.io/img/icon-192.png</url>
+      <title>Jackson Killian</title>
+      <link>https://sanketkshah.github.io/authors/jackson-killian/</link>
+    </image>
+    
+    <item>
+      <title>Q-Learning Lagrange Policies for Multi-Action Restless Bandits</title>
+      <link>https://sanketkshah.github.io/publication/multi-action-rmab/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/multi-action-rmab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
