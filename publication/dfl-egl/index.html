@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD Student">
+  <meta name="description" content="We propose two new innovations to help improve the learning of task-specific loss functions.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sanketkshah.github.io/authors/meghna-lowalekar/">
+  <link rel="alternate" hreflang="en-us" href="https://sanketkshah.github.io/publication/dfl-egl/">
 
   
 
@@ -129,14 +129,12 @@
 
 
   
-  <link rel="alternate" href="/authors/meghna-lowalekar/index.xml" type="application/rss+xml" title="Sanket Shah">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://sanketkshah.github.io/authors/meghna-lowalekar/">
+  <link rel="canonical" href="https://sanketkshah.github.io/publication/dfl-egl/">
 
   
   
@@ -152,18 +150,63 @@
   <meta property="twitter:creator" content="@_sunk8">
   
   <meta property="og:site_name" content="Sanket Shah">
-  <meta property="og:url" content="https://sanketkshah.github.io/authors/meghna-lowalekar/">
-  <meta property="og:title" content="Meghna Lowalekar | Sanket Shah">
-  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://sanketkshah.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://sanketkshah.github.io/publication/dfl-egl/">
+  <meta property="og:title" content="Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize | Sanket Shah">
+  <meta property="og:description" content="We propose two new innovations to help improve the learning of task-specific loss functions."><meta property="og:image" content="https://sanketkshah.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://sanketkshah.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-06-13T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-11-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2023-02-24T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sanketkshah.github.io/publication/dfl-egl/"
+  },
+  "headline": "Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize",
+  
+  "datePublished": "2019-11-01T00:00:00Z",
+  "dateModified": "2023-02-24T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sanket Shah"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sanket Shah",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sanketkshah.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We propose two new innovations to help improve the learning of task-specific loss functions."
+}
+</script>
+
+  
 
   
 
@@ -171,10 +214,13 @@
   
 
 
+  
 
 
 
-  <title>Meghna Lowalekar | Sanket Shah</title>
+
+
+  <title>Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize | Sanket Shah</title>
 
 </head>
 
@@ -375,42 +421,267 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Meghna Lowalekar</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/sanket-shah/">Sanket Shah</a></span>, <span><a href="/authors/bryan-wilder/">Bryan Wilder</a></span>, <span><a href="/authors/andrew-perrault/">Andrew Perrault</a></span>, <span><a href="/authors/milind-tambe/">Milind Tambe</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2305.16830" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Predict-then-Optimize is a framework for using machine learning to perform decision-making under uncertainty. The central research question it asks is, &ldquo;How can the structure of a decision-making task be used to tailor ML models for that specific task?&rdquo; To this end, recent work has proposed learning task-specific loss functions that capture this underlying structure. However, current approaches make restrictive assumptions about the form of these losses and their impact on ML model behavior. These assumptions both lead to approaches with high computational cost, and when they are violated in practice, poor performance. In this paper, we propose solutions to these issues, avoiding the aforementioned assumptions and utilizing the ML model&rsquo;s features to increase the sample efficiency of learning loss functions. We empirically show that our method achieves state-of-the-art results in four domains from the literature, often requiring an order of magnitude fewer samples than comparable methods from past work. Moreover, our approach outperforms the best existing method by nearly 200% when the localness assumption is broken.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/pricing-matching/">Joint Pricing and Matching for City-Scale Ride-Pooling</a>
-        </li>
-        
-        <li>
-          <a href="/publication/fairvizard/">FairVizARD: A Visualization System for Assessing Fairness of Ride-Sharing Matching Algorithms</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ride-pooling/">Neural Approximate Dynamic Programming for On-Demand Ride-Pooling</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">The 38th Annual AAAI Conference on Artificial Intelligence</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/decision-focused-learning/">Decision-Focused Learning</a>
+  
+  <a class="badge badge-light" href="/tags/machine-learning/">Machine Learning</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/sanket-shah/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/dfl-rmabs-exact/">Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize</a></li>
+      
+      <li><a href="/publication/dfl-lodl/">Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</a></li>
+      
+      <li><a href="/publication/dfl-armann/">Decision-Focused Learning in Restless Multi-Armed Bandits with Application to Maternal and Child Care Domain</a></li>
+      
+      <li><a href="/publication/dfl-mdp/">Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
 
       
 

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD Student">
+  <meta name="description" content="We propose an efficient way to implement decision-focused learning for the kinds of RMABs used for intervention planning in public health.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sanketkshah.github.io/authors/meghna-lowalekar/">
+  <link rel="alternate" hreflang="en-us" href="https://sanketkshah.github.io/publication/dfl-rmabs-exact/">
 
   
 
@@ -129,14 +129,12 @@
 
 
   
-  <link rel="alternate" href="/authors/meghna-lowalekar/index.xml" type="application/rss+xml" title="Sanket Shah">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://sanketkshah.github.io/authors/meghna-lowalekar/">
+  <link rel="canonical" href="https://sanketkshah.github.io/publication/dfl-rmabs-exact/">
 
   
   
@@ -152,18 +150,63 @@
   <meta property="twitter:creator" content="@_sunk8">
   
   <meta property="og:site_name" content="Sanket Shah">
-  <meta property="og:url" content="https://sanketkshah.github.io/authors/meghna-lowalekar/">
-  <meta property="og:title" content="Meghna Lowalekar | Sanket Shah">
-  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://sanketkshah.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://sanketkshah.github.io/publication/dfl-rmabs-exact/">
+  <meta property="og:title" content="Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize | Sanket Shah">
+  <meta property="og:description" content="We propose an efficient way to implement decision-focused learning for the kinds of RMABs used for intervention planning in public health."><meta property="og:image" content="https://sanketkshah.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://sanketkshah.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-06-13T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-11-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2023-05-06T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sanketkshah.github.io/publication/dfl-rmabs-exact/"
+  },
+  "headline": "Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize",
+  
+  "datePublished": "2019-11-01T00:00:00Z",
+  "dateModified": "2023-05-06T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sanket Shah"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sanket Shah",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sanketkshah.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We propose an efficient way to implement decision-focused learning for the kinds of RMABs used for intervention planning in public health."
+}
+</script>
+
+  
 
   
 
@@ -171,10 +214,13 @@
   
 
 
+  
 
 
 
-  <title>Meghna Lowalekar | Sanket Shah</title>
+
+
+  <title>Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize | Sanket Shah</title>
 
 </head>
 
@@ -375,42 +421,228 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Meghna Lowalekar</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/sanket-shah/">Sanket Shah</a></span>, <span><a href="/authors/bryan-wilder/">Bryan Wilder</a></span>, <span><a href="/authors/andrew-perrault/">Andrew Perrault</a></span>, <span><a href="/authors/milind-tambe/">Milind Tambe</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">The declining participation of beneficiaries over time is a key concern in public health programs. A popular strategy for improving retention is to have health workers `intervene&rsquo; on beneficiaries at risk of dropping out.  However, the availability and time of these health workers are limited resources. As a result, there has been a line of research on optimizing these limited intervention resources using Restless Multi-Armed Bandits (RMABs). The key technical barrier to using this framework in practice lies in estimating the beneficiaries&rsquo; RMAB parameters from historical data. Recent research on Decision-Focused Learning (DFL) has shown that estimating parameters that maximize beneficiaries&rsquo; cumulative returns rather than predictive accuracy, is essential to good performance. Unfortunately, these gains come at a high computational cost because of the need to solve and evaluate the RMAB in each DFL training step. Consequently, past approaches may not be sustainable for the NGOs that manage such programs in the long run, given that they operate under resource constraints. In this paper, we provide a principled way to exploit the structure of RMABs to speed up DFL by decoupling intervention planning for different beneficiaries. We use real-world data from an Indian NGO, ARMMAN, to show that our approach is up to two orders of magnitude faster than the state-of-the-art approach while also yielding superior model performance. This enables computationally efficient solutions, giving NGOs the ability to deploy such solutions to serve potentially millions of mothers, ultimately advancing progress toward UNSDG 3.1.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/pricing-matching/">Joint Pricing and Matching for City-Scale Ride-Pooling</a>
-        </li>
-        
-        <li>
-          <a href="/publication/fairvizard/">FairVizARD: A Visualization System for Assessing Fairness of Ride-Sharing Matching Algorithms</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ride-pooling/">Neural Approximate Dynamic Programming for On-Demand Ride-Pooling</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">The 23rd International Conference on Autonomous Agents and Multi-Agent Systems</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/decision-focused-learning/">Decision-Focused Learning</a>
+  
+  <a class="badge badge-light" href="/tags/machine-learning/">Machine Learning</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/sanket-shah/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/dfl-egl/">Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize</a></li>
+      
+      <li><a href="/publication/dfl-lodl/">Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses</a></li>
+      
+      <li><a href="/publication/dfl-armann/">Decision-Focused Learning in Restless Multi-Armed Bandits with Application to Maternal and Child Care Domain</a></li>
+      
+      <li><a href="/publication/dfl-mdp/">Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
 
       
 
