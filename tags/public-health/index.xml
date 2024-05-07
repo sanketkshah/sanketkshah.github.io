@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aparna Hegde | Sanket Shah</title>
-    <link>https://sanketkshah.github.io/authors/aparna-hegde/</link>
-      <atom:link href="https://sanketkshah.github.io/authors/aparna-hegde/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aparna Hegde</description>
+    <title>Public Health | Sanket Shah</title>
+    <link>https://sanketkshah.github.io/tags/public-health/</link>
+      <atom:link href="https://sanketkshah.github.io/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Public Health</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
-      <title>Aparna Hegde</title>
-      <link>https://sanketkshah.github.io/authors/aparna-hegde/</link>
+      <title>Public Health</title>
+      <link>https://sanketkshah.github.io/tags/public-health/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sanketkshah.github.io/publication/kilkari/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/kilkari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision-Focused Learning in Restless Multi-Armed Bandits with Application to Maternal and Child Care Domain</title>
-      <link>https://sanketkshah.github.io/publication/dfl-armann/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sanketkshah.github.io/publication/dfl-armann/</guid>
       <description></description>
     </item>
     
