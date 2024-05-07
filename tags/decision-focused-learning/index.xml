@@ -5,7 +5,7 @@
     <link>https://sanketkshah.github.io/tags/decision-focused-learning/</link>
       <atom:link href="https://sanketkshah.github.io/tags/decision-focused-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Decision-Focused Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sanketkshah.github.io/img/icon-192.png</url>
       <title>Decision-Focused Learning</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Group Fairness in Predict-Then-Optimize Settings for Restless Bandits</title>
+      <link>https://sanketkshah.github.io/publication/dfl-fairness/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Public Health Intervention Planning Using Decomposition-Based Decision-Focused Learning</title>
       <link>https://sanketkshah.github.io/publication/dfl-rmabs-exact/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/dfl-rmabs-exact/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize</title>
       <link>https://sanketkshah.github.io/publication/dfl-egl/</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://sanketkshah.github.io/publication/dfl-egl/</guid>
       <description></description>
     </item>

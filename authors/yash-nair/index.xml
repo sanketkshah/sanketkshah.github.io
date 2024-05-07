@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yash Nair | Sanket Shah</title>
+    <link>https://sanketkshah.github.io/authors/yash-nair/</link>
+      <atom:link href="https://sanketkshah.github.io/authors/yash-nair/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yash Nair</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sanketkshah.github.io/img/icon-192.png</url>
+      <title>Yash Nair</title>
+      <link>https://sanketkshah.github.io/authors/yash-nair/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Effectiveness of Index-Based Treatment Allocation</title>
+      <link>https://sanketkshah.github.io/publication/rct-evaluation/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/rct-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

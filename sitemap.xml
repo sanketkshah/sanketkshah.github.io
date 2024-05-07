@@ -2,53 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanketkshah.github.io/publication_types/1/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <loc>https://sanketkshah.github.io/publication_types/3/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/aparna-taneja/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/authors/arun-suggala/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sanketkshah.github.io/tags/decision-focused-learning/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <loc>https://sanketkshah.github.io/tags/causal-inference/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sanketkshah.github.io/publication/dfl-rmabs-exact/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <loc>https://sanketkshah.github.io/publication/rct-evaluation/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/lucas-janson/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/machine-learning/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/milind-tambe/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/niclas-boehmer/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication_types/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/sanket-shah/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/statistics/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/yash-nair/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication_types/1/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/decision-focused-learning/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/tags/fairness/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/dfl-fairness/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/shresth-verma/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/yunfan-zhao/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/authors/arun-suggala/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanketkshah.github.io/publication/dfl-rmabs-exact/</loc>
+    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/andrew-perrault/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/bryan-wilder/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication/dfl-egl/</loc>
-    <lastmod>2023-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/aditya-mate/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
@@ -69,9 +102,6 @@
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/tags/restless-multi-armed-bandits/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/authors/shresth-verma/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication/dfl-lodl/</loc>
@@ -114,9 +144,6 @@
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/authors/ashwin-kumar/</loc>
-    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanketkshah.github.io/tags/fairness/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanketkshah.github.io/publication/fairvizard/</loc>

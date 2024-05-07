@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunfan Zhao | Sanket Shah</title>
+    <link>https://sanketkshah.github.io/authors/yunfan-zhao/</link>
+      <atom:link href="https://sanketkshah.github.io/authors/yunfan-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunfan Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sanketkshah.github.io/img/icon-192.png</url>
+      <title>Yunfan Zhao</title>
+      <link>https://sanketkshah.github.io/authors/yunfan-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Group Fairness in Predict-Then-Optimize Settings for Restless Bandits</title>
+      <link>https://sanketkshah.github.io/publication/dfl-fairness/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanketkshah.github.io/publication/dfl-fairness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
